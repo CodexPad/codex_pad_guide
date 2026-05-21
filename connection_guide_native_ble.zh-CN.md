@@ -12,7 +12,7 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 
 ### 方式一：Bluetooth Device Address 直连
 
-此方式通过手柄唯一的 [Bluetooth Device Address](bluetooth_device_address.zh-CN.md#bluetooth-device-address) 进行精准连接。
+此方式通过手柄唯一的 **Bluetooth Device Address** 进行精准连接。
 
 - **工作原理**：在您的主机代码中，预先写入目标手柄的Bluetooth Device Address。程序启动后将直接尝试与这个特定地址的设备建立连接。
 
