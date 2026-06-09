@@ -55,7 +55,7 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 | ESP32-H2 |
 | ESP32-P4 |
 
-**详细说明**：[CodexPad Arduino Lib](../../../codex_pad_arduino_lib/blob/main/README.zh-CN.md#codexpad-arduino-lib)
+**详细说明**：[CodexPad Arduino Lib](../../../../../codex_pad_arduino_lib/blob/main/README.zh-CN.md#codexpad-arduino-lib)
 
 ---
 
@@ -81,7 +81,7 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 | Raspberry Pi Pico W |
 | Raspberry Pi Pico 2 W |
 
-**详细说明**：[CodexPad MicroPython Lib](../../../codex_pad_mpy_lib/blob/main/README.zh-CN.md#codexpad-micropython-lib)
+**详细说明**：[CodexPad MicroPython Lib](../../../../../codex_pad_mpy_lib/blob/main/README.zh-CN.md#codexpad-micropython-lib)
 
 ---
 
@@ -93,7 +93,7 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 | :--- |
 | micro:bit |
 
-**详细说明**： [CodexPad Extension for micro:bit MakeCode](../../../codex_pad_makecode_extension/blob/main/READMD.zh-CN.md#codexpad-extension-for-microbit-makecode)
+**详细说明**： [CodexPad Extension for micro:bit MakeCode](../../../../../codex_pad_makecode_extension/blob/main/READMD.zh-CN.md#codexpad-extension-for-microbit-makecode)
 
 ---
 
