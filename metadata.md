@@ -89,15 +89,15 @@ Regardless of which tool you use below, successfully connecting and accessing me
 s
     ![assets/images/en/obtain_metadata/web_serial_tool/02_print_metadata.png](assets/images/en/obtain_metadata/web_serial_tool/02_print_metadata.png)
 
-### Method 2: Using Windows Serial Debugging Assistant
+### Method 2: Using Windows Serial Debug Assistant
 
-1. Install the Serial Debugging Assistant
+1. Install the Serial Debug Assistant
 
-    - Visit the Serial Debugging Assistant download page: <https://apps.microsoft.com/detail/9nblggh43hdm?launch=true&hl=en-gb&gl=cn>
+    - Visit the Serial Debug Assistant download page: <https://apps.microsoft.com/detail/9nblggh43hdm?launch=true&hl=en-gb&gl=cn>
 
     - Download and install the latest version suitable for Windows yourself.
 
-2. Launch the Serial Debugging Assistant
+2. Launch the Serial Debug Assistant
 
     - After installation, find and launch the program from the desktop or Start menu.
 
