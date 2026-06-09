@@ -25,8 +25,8 @@
     适用于**板载了BLE转串口模块**的开发板（例如，BLE-UNO）。主控通过串口与蓝牙芯片进行通信，工作原理与 “开发板 + 外接BLE转串口模块” 相同。
 
     | 适用开发板 |
-    | :-------- |
-    | BLE-UNO   |
+    | :--- |
+    | BLE-UNO |
 
 - 开发板外接BLE转串口模块
 
@@ -35,14 +35,14 @@
     **支持的外接BLE转串口模块**
 
     | BLE转串口模块 |
-    | :------------ |
+    | :--- |
     | NL-16 (V1.2+) |
 
     **支持的硬件平台**
 
     | 支持的硬件平台 |
-    | :----------- |
-    | Arduino UNO  |
+    | :--- |
+    | Arduino UNO |
     | Arduino Nano |
 
 **详细说明**：[CodexPadFrameDecoder Arduino lib](../../../codex_pad_frame_decoder_arduino_lib/blob/main/README.zh-CN.md#codexpadframedecoder-arduino-lib)
