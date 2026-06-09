@@ -59,6 +59,7 @@
 
     - 用USB线将手柄连接至电脑。
     - 确保手柄已上电：
+
         - 对于有物理总开关的型号，请手动打开开关。
         - 您可以通过观察手柄的指示灯（如有）是否亮起来判断是否已上电。
 
@@ -82,11 +83,11 @@
 
 4. 在弹出的设备列表中，选择以`CodexPad`开头的设备，然后点击**连接**
 
-    ![assets/images/obtain_metadata/web_serial_tool/01_connect_device.png](assets/images/obtain_metadata/web_serial_tool/01_connect_device.png)
+    ![assets/images/zh-CN/obtain_metadata/web_serial_tool/01_connect_device.png](assets/images/zh-CN/obtain_metadata/web_serial_tool/01_connect_device.png)
 
 5. 连接成功后，内容框会打印元数据信息，如下图所示：
 
-    ![assets/images/obtain_metadata/web_serial_tool/02_print_metadata.png](assets/images/obtain_metadata/web_serial_tool/02_print_metadata.png)
+    ![assets/images/zh-CN/obtain_metadata/web_serial_tool/02_print_metadata.png](assets/images/zh-CN/obtain_metadata/web_serial_tool/02_print_metadata.png)
 
 ### 方法二：使用Windows串口调试助手
 
@@ -126,14 +127,14 @@
 
         - 在软件界面中找到“**DTR**”选项，并点击启用它，选项会变为绿色
 
-    ![assets/images/obtain_metadata/windows_serial_debugger/01_configure.png](assets/images/obtain_metadata/windows_serial_debugger/01_configure.png)
+    ![assets/images/zh-CN/obtain_metadata/windows_serial_debugger/01_configure.png](assets/images/zh-CN/obtain_metadata/windows_serial_debugger/01_configure.png)
 
 4. 建立连接
 
     - 完成上述配置后，点击“**打开**”按钮建立连接
 
-        ![assets/images/obtain_metadata/windows_serial_debugger/02_click_open.png](assets/images/obtain_metadata/windows_serial_debugger/02_click_open.png)
+        ![assets/images/zh-CN/obtain_metadata/windows_serial_debugger/02_click_open.png](assets/images/zh-CN/obtain_metadata/windows_serial_debugger/02_click_open.png)
 
     - 连接成功后，手柄会自动发送一次设备元数据，并显示在软件右侧的“**接收区**”，如下图所示：
 
-        ![assets/images/obtain_metadata/windows_serial_debugger/03_print_metadata.png](assets/images/obtain_metadata/windows_serial_debugger/03_print_metadata.png)
+        ![assets/images/zh-CN/obtain_metadata/windows_serial_debugger/03_print_metadata.png](assets/images/zh-CN/obtain_metadata/windows_serial_debugger/03_print_metadata.png)
