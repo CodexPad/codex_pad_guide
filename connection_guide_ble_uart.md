@@ -45,6 +45,6 @@ This library and example code are suitable for scenarios where you use the contr
     | Arduino UNO |
     | Arduino Nano |
 
-**Detailed description**: [CodexPadFrameDecoder Arduino lib](../../../codex_pad_frame_decoder_arduino_lib/blob/main/README.md#codexpadframedecoder-arduino-lib)
+**Detailed description**: [GamepadCodec Arduino lib](../../../gamepad_codec_arduino_lib/blob/main/README.md#gamepadcodec-arduino-library)
 
 ---

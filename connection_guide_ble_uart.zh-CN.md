@@ -45,6 +45,6 @@
     | Arduino UNO |
     | Arduino Nano |
 
-**详细说明**：[CodexPadFrameDecoder Arduino lib](../../../codex_pad_frame_decoder_arduino_lib/blob/main/README.zh-CN.md#codexpadframedecoder-arduino-lib)
+**详细说明**：[GamepadCodec Arduino lib](../../../gamepad_codec_arduino_lib/blob/main/README.zh-CN.md#gamepadcodec-arduino-library)
 
 ---
