@@ -48,3 +48,17 @@
 **详细说明**：[GamepadCodec Arduino lib](../../../gamepad_codec_arduino_lib/blob/main/README.zh-CN.md#gamepadcodec-arduino-library)
 
 ---
+
+### Mind+库和示例程序
+
+Mind+ CodexPad蓝牙手柄用户库链接：<https://gitee.com/emakefun_midplus_lib/codexpad-ble>
+
+[点击查看Mind+导入用户库方法](https://mindplus.dfrobot.com.cn/extensions-user-libraries)
+
+---
+
+### Mixly库和示例程序
+
+[点击此处下载Mixly库以及示例程序](https://gitee.com/emakefun_mixly_lib/codexpad-ble/repository/archive/master.zip)
+
+---
