@@ -59,6 +59,18 @@ Suitable for development in **Arduino IDE** or **PlatformIO**.
 
 ---
 
+### Cross-Platform Python Lib（CodexPad Bleak Lib）
+
+| Supported Hardware Platforms |
+| :--- |
+| Windows 10 (version 16299 or later) |
+| macOS (10.15 or later) |
+| Linux distributions (systems with BlueZ >= 5.55, including embedded devices such as Raspberry Pi) |
+
+**Detailed description**:[CodexPad Bleak Lib](../../../codex_pad_bleak_lib/blob/main/README.md#codexpad-bleak-lib)
+
+---
+
 ### MicroPython Library and Example Code
 
 Suitable for development on **MicroPython** firmware.

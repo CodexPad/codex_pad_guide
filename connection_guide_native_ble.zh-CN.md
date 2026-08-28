@@ -85,6 +85,18 @@ CodexPad提供了两种灵活的主机连接方式，您可以根据开发场景
 
 ---
 
+### 跨平台Python库（CodexPad Bleak Lib）
+
+| 支持的硬件平台 |
+| :--- |
+| Windows 10（版本 16299 或更高） |
+| macOS（10.15 或更高版本） |
+| Linux 发行版（包含 BlueZ >= 5.55 的系统，如**树莓派**等嵌入式设备） |
+
+**详细说明**：[CodexPad Bleak Lib](../../../codex_pad_bleak_lib/blob/main/README.zh-CN.md#codexpad-bleak-lib)
+
+---
+
 ### Micro:bit图形化扩展
 
 适用于在 **MakeCode** 图形化编程环境中为 micro:bit 开发。
