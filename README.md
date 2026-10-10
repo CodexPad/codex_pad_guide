@@ -2,6 +2,8 @@
 
 1. [CodexPad Metadata Access Function](metadata.md)
 
+1. [Button Mask Connection Explained](button_mask_connection_explained.md)
+
 1. [CodexPad Connection and Usage Guide: Using the Built-in BLE of Hardware Platforms](connection_guide_native_ble.md)
 
 1. [CodexPad Connection and Usage Guide: Using BLE to Serial Module](connection_guide_ble_uart.md)
